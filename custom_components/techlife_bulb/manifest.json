@@ -1,0 +1,9 @@
+{
+  "domain": "techlife_bulb_control",
+  "name": "Techlife Bulb Control",
+  "documentation": "https://github.com/thorin8k/techlife_bulb",
+  "issue_tracker": "https://github.com/thorin8k/techlife_bulb",
+  "dependencies": [],
+  "codeowners": ["@thorin8k"],
+  "requirements": ["paho-mqtt==1.5.1"]
+}

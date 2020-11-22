@@ -5,9 +5,9 @@
 import socket
 
 # Variables to change
-ssid = 'Thorins Home'
-password = 'diamante00000'
-bssid = bytearray([0xaa, 0xaa, 0xaa, 0xaa, 0xaa, 0xaa]) # Enter your WiFi router's WiFi interface MAC address in hex (eg. AA:AA:AA:AA:AA:AA)
+ssid = '<SSID>'
+password = '<WIFIPWD>'
+bssid = bytearray([0xaa, 0xaa, 0xaa, 0xaa, 0xaa, 0xaa]) # Enter your WiFi router's WiFi interface MAC address in hex (eg. AA:AA:AA:AA:AA:AA) <NOT REALLY NEEDED>
 email = 'none@nowhere.com' # not absolutely required
 
 # The bulb's network details
