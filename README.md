@@ -54,7 +54,7 @@ If the bulb is already connected to your wifi yoy can skip this step.
 
 
 ## Credits and Info
-I used this following articles and forum posts to make this work, all credit to this people who have extracted all the commands needed to change bulbs state. I only packed all in this custom_component.
+I used the following articles and forum posts to make this work, all credit to this people who have extracted all the commands needed to change bulbs state. I only packed all in this custom_component.
 
 - Original Post: https://community.home-assistant.io/t/integrating-techlife-pro-light-bulbs-without-opening-or-soldering/178423
 
