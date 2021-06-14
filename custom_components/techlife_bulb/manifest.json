@@ -1,6 +1,7 @@
 {
   "domain": "techlife_bulb_control",
   "name": "Techlife Bulb Control",
+  "version": "1.0",
   "documentation": "https://github.com/thorin8k/techlife_bulb",
   "issue_tracker": "https://github.com/thorin8k/techlife_bulb",
   "dependencies": [],
