@@ -6,5 +6,5 @@
   "issue_tracker": "https://github.com/thorin8k/techlife_bulb",
   "dependencies": [],
   "codeowners": ["@thorin8k"],
-  "requirements": ["paho-mqtt==1.5.1"]
+  "requirements": ["paho-mqtt==1.6.1"]
 }
