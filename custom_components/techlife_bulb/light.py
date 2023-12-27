@@ -44,6 +44,7 @@ def setup_platform(hass, config, add_entities, discovery_info=None):
         client.username_pw_set(broker_username, broker_password)
 
         client.connect(broker_url, 1883, 60)
+        client.loop_start()
 
     except:
         _LOGGER.error(
