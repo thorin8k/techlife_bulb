@@ -1,3 +1,6 @@
+Archived because i dont own any TechLife bulbs anymore and cannot give support to it. 
+
+
 # TechLife Bulb - Custom Integration
 This light integration controls your techlife bulbs without flashing or modifying.
 
